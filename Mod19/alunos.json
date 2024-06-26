@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "fernanda",
+    "nota": 7,
+    "curso": "QA"
+  },
+  {
+    "nome": "Ana",
+    "nota": 8,
+    "curso": "FS"
+  },
+  {
+    "nome": "Patrik",
+    "nota": 10,
+    "curso": "QA"
+  },
+  {
+    "nome": "Gabriel",
+    "cargo": "Professor",
+    "curso": "QA"
+  },
+  {
+    "nome": "Kirley",
+    "cargo": "Professor",
+    "curso": "FS"
+  }
+]
